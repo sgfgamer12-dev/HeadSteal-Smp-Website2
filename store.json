@@ -2,7 +2,7 @@
   "_help": "store.json = everything you sell on the store. Prices, perks, coin packs, crate keys, page words and page colours all live here. Copy a { } block to add an item, delete a block to remove one. config.json has the server name, IP and Discord link; site.json has the homepage settings.",
 
   "currency": {
-    "_help": "The money players can pay in. 'rate' = how many of this currency equal 1 unit of 'base'. 'decimals' = digits after the decimal point (0 shows ₹449, 2 shows $4.99).",
+    "_help": "The money players can pay i. 'rate' = how many of this currency equal 1 unit of 'base'. 'decimals' = digits after the decimal point (0 shows ₹449, 2 shows $4.99).",
     "default": "INR",
     "base": "INR",
     "options": {
