@@ -1,10 +1,10 @@
 {
-  "serverName": "Fill server name here",
+  "serverName": "HeadSteal Smp",
   "serverIp": "example.com",
   "bedrockPort": 19132,
   "bedrockPlayersCanJoin": true, 
-  "discordLink": "https://discord.gg/S763GafZPR",
-  "logoPath": "logo.jpg",
+  "discordLink": "https://discord.gg/CF5EYfRdjF",
+  "logoPath": "1000169826.png",
   "defaultColour": "red",
   "_defaultColourHelp": "Choose red, blue, yellow, purple, white, pink, or orange."
 }
